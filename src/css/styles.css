@@ -194,6 +194,7 @@ nav .active a {
 
 /* about */
 .about-left {
+  background: url("../img/about-pic.jpg") center;
   margin-bottom: 4rem;
   height: 480px;
   overflow: hidden;
