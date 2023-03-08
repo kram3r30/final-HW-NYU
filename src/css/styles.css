@@ -91,7 +91,7 @@ h3 {
 
 #pull::after {
   content: "";
-  background: url(/src/img/nav-icon.svg) no-repeat;
+  background: url(../img/nav-icon.svg) no-repeat;
   width: 22px;
   height: 22px;
   background-size: cover;
@@ -152,7 +152,7 @@ nav .active a {
 /* header */
 #header {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
-    url("/src/img/header-banner.jpg") center/cover no-repeat fixed;
+    url(../img/header-banner.jpg) center/cover no-repeat fixed;
   justify-content: flex-start;
   align-items: flex-end;
 }
